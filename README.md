@@ -1,3 +1,3 @@
-# An efficient and compact network for iamge compressive sensing
+# An efficient and compact network for image compressive sensing
 
 Code will be made publicly after the paper be acceptance.
